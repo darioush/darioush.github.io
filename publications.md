@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 
 * "Are Mutants a Valid Substitute for Real Faults in Software Testing?"
+    : *ACM SIGSOFT Distinguished paper award*
     : FSE 2014 [[download]][fse14]
     : René Just, **Darioush Jalali**, Laura Inozemtseva, Michael D. Ernst, Reid Holmes, and Gordon Fraser.
 

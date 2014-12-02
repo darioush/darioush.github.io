@@ -21,7 +21,7 @@ permalink: /projects/
 
 [issta14-1]: ../papers/issta-2014-1.pdf
 [issta14-2]: ../papers/issta-2014-2.pdf
-[defects4j]: http://homes.cs.washington.edu/~rjust/defects4j/
+[defects4j]: https://github.com/uw-plse/defects4j
 [rene]: http://homes.cs.washington.edu/~rjust
 [dtd]: https://code.google.com/p/testisolation/
 [sai]: http://zhang-sai.github.io/

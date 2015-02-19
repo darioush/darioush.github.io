@@ -5,7 +5,10 @@ layout: default
 <div class="home">
 
     <p>
+    <img src="./images/darioush.jpg" />
     {% capture about %}
+
+
 I'm a third year PhD student, and I do software engineering research with
 my adviser [Michael Ernst][mernst] at the [PLSE][plse] group at University of Washington.
 I have previously worked with [Raman Ramsin][ramsin] at Sharif.
@@ -13,7 +16,6 @@ I have previously worked with [Raman Ramsin][ramsin] at Sharif.
 I research software testing, in particular I try to quantify the value of tests.
 I also try to use automated program analysis to help developers
 gain confidence in their code.
-
 
 Recently, I've been looking at proof-assistant aided verification, and some dark part of me
 wants to find a reasonable compromise between testing and proofs.
@@ -23,6 +25,7 @@ wants to find a reasonable compromise between testing and proofs.
 [plse]:   http://uw-plse.github.io/                 "PLSE github"
 [ramsin]: http://ce.sharif.edu/~ramsin/             "Raman Ramsin"
     {% endcapture %}
+
     {{ about | markdownify }}
 
     </p>
